@@ -1,7 +1,7 @@
 # VR-FarmDay
 
-This work was made by Ana Rojo Agustí and Rodrigo García Carmona. This project is a fork of [VRTK](https://github.com/ExtendRealityLtd/VRTK)
-and it uses its API and the sample scenario extensively.
+This work was made by Ana Rojo Agustí, Rodrigo García Carmona, José Ángel Santos Paz, Álvaro Sánchez Picot and Rafael Raya López.
+This project is a fork of [VRTK](https://github.com/ExtendRealityLtd/VRTK) and it uses its API and the sample scenario extensively.
 
 This is a set of six activities of daily living, designed for the rehabilitation of patients with upper limb disorders. More details are
 provided in the paper linked bellow, in the "Citation" section.
@@ -40,7 +40,7 @@ For building the binary release, these third-party assets were used:
 ##  Citation
 
 This work was part of an study published as [FarmDay: A Gamified Virtual Reality Neurorehabilitation Application
-for Upper Limb Based on Activities of Daily Living"](https://www.mdpi.com/2076-3417/12/14/7068),
+for Upper Limb Based on Activities of Daily Living](https://www.mdpi.com/2076-3417/12/14/7068),
 in the journal Applied Sciences. If you want to cite it, please use this BibTex code:
 
 ```
@@ -56,7 +56,7 @@ in the journal Applied Sciences. If you want to cite it, please use this BibTex 
 }
 ```
 
-##  Video demonstration
+##  Video
 
 https://github.com/user-attachments/assets/a2c7d793-3c4f-4349-9c20-fe7dce8889e4
 
