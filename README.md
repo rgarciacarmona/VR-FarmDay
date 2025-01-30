@@ -40,8 +40,8 @@ For building the binary release, these third-party assets were used:
 ##  Citation
 
 This work was part of an study published as [FarmDay: A Gamified Virtual Reality Neurorehabilitation Application
-for Upper Limb Based on Activities of Daily Living"]([https://peerj.com/articles/14031/](https://www.mdpi.com/2076-3417/12/14/7068)),
-in the journal PeerJ. If you want to cite it, please use this BibTex code:
+for Upper Limb Based on Activities of Daily Living"](https://www.mdpi.com/2076-3417/12/14/7068),
+in the journal Applied Sciences. If you want to cite it, please use this BibTex code:
 
 ```
 @article{rojo2022farmday,
