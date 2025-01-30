@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.jirafa_vrtk.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\anroa\\Desktop\\PROYECTOS\\CEU\\VRTK-OpenVR-SteamVR\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Jirafa_VRTK [Testing]"
+        }
+      }
+    }
+  ]
+}
